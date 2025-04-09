@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Quentin Guillemelle
 
-Welcome to my GitHub profile! I'm a **Junior Data Scientist Engineer** passionate about many things but a specialist in nothing. 
+Welcome to my GitHub profile! I'm a **Junior Data Scientist Engineer**. 
 
                         ✨ Will we have enough time with our heads full of ideas ? ✨
 
